@@ -1,6 +1,6 @@
 # 👋 Welcome to Herman Hui’s Portfolio
 
-Hi, I'm Herman — a digital senior project manager and data professional with over 18 years of experience in banking, analytics, and digital transformation. I specialize in bridging the gap between business objectives and technical solutions.
+Hi, I'm Herman — with over 18 years of experience in banking, analytics, and digital transformation. I specialize in bridging the gap between business objectives and technical solutions. Passionate about leveraging data, technology, and user-centred design to solve complex problems and build scalable, high-impact solutions.
 
 ---
 
