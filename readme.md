@@ -6,7 +6,7 @@ Hi, I'm Herman — with over 18 years of experience in banking, analytics, and d
 
 ## 🚀 Featured Projects by Theme
 
-### **1. Digital Development (Web and Mobile)**
+### **1. Digital Development (Web and Mobile Developments and Communications)**
 
 | Project | Description | Skills |
 |---------|-------------|--------|
