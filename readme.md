@@ -27,7 +27,7 @@ Hi, I'm Herman — with over 18 years of experience in banking, analytics, and d
 | [CMA Digital Analytics Assignments](https://github.com/huiherman/cma-analytics-portfolio) | Used Google Merchandise Store data to analyze seasonality, audience segments, brand awareness, and eCommerce conversions. | Digital Analytics, Excel, ETL, Storytelling |
 | [Superstore Power BI Dashboard](https://github.com/huiherman/superstore-powerbi-dashboard) | Developed an interactive dashboard to visualize sales trends by region and segment. | Power BI |
 
-### **3. SAS Data Analytics**
+### **3. SAS Data Analytics in the Retail and Financial Services sector**
 
 | Project | Description | Skills |
 |---------|-------------|--------|
