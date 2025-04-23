@@ -10,6 +10,7 @@ Hi, I'm Herman — with over 18 years of experience in banking, analytics, and d
 
 | Project | Description | Skills |
 |---------|-------------|--------|
+| [RBC Transition – Digital Project Leadership Case Study](https://github.com/huiherman/rbc-transition-digital-leadership) | Led digital communications for RBC’s acquisition of HSBC Canada in 2024, managing outreach to 700,000 customers and delivering a seamless, compliant migration under tight timelines. | Project Management, Leadership, Communication, Stakeholder Management |
 | [HSBC to RBC Mobile Messaging Campaign](https://github.com/huiherman/hsbc-rbc-mobile-messaging) | Led the multilingual mobile messaging campaign at HSBC to support customer communication during its transition to RBC. | Project Management, Leadership, Communication, Stakeholder Management |
 | [HSBC Canada Website Redesign](https://github.com/huiherman/hsbc-canada-website-redesign) | Led the full redesign of HSBC.ca | Project Management, Leadership, Communication, Stakeholder Management |
 | [HSBC Canada Digital Initiatives](https://github.com/huiherman/hsbc-canada-website) | Major digital initiatives at HSBC Canada | Adobe Experience Manager, HTML, CSS, JavaScript, XML, TeamSite |
