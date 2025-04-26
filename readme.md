@@ -41,7 +41,7 @@ Hi, I'm Herman — with over 18 years of experience in banking, analytics, and d
 
 | Project | Description | Skills |
 |---------|-------------|--------|
-| [Python Utility Scripts](https://github.com/huiherman/python-utility-scripts) | Various Python scripts for data manipulation and automation. | Python |
+| [Python Utility Scripts](https://github.com/huiherman/python-mini-projects) | Various Python scripts for data manipulation and automation. | Python |
 
 ---
 
