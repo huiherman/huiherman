@@ -20,7 +20,6 @@ Hi, I'm Herman — with over 18 years of experience in banking, analytics, and d
 
 | Project | Description | Skills |
 |---------|-------------|--------|
-| [Google Data Analytics Capstone](https://github.com/huiherman/google-data-analytics-capstone) | Completed end-to-end analysis project from data cleaning to dashboarding. | R, SQL, Google Analytics |
 | [Cyclistic Bike-Share Analysis](https://github.com/huiherman/cyclistic-bike-share-analysis) | Behavioral analysis with insights to drive marketing strategy. | R, SQL, Storytelling, data wrangling, transformation |
 | [Richmond Real Estate Price Analysis](https://github.com/huiherman/richmond-real-estate-analysis) | Analyzed the Richmond, BC apartment market, identifying key property features that influence prices to help buyers make data-driven decisions. | R including correlation analysis, variable selection, model fitting, and diagnostics |
 | [DonorsChoose R Project](https://github.com/huiherman/donorschoose-r-project) | Analyzed the relationship between project cost and donation amounts on DonorsChoose.org, aiming to optimize donation strategies by identifying key drivers of donor support. | R including regression diagnostics, ETL, storytelling |
