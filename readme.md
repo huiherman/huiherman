@@ -26,6 +26,11 @@ Hi, I'm Herman — with over 18 years of experience in banking, analytics, and d
 | [CMA Digital Analytics Assignments](https://github.com/huiherman/cma-analytics-portfolio) | Used Google Merchandise Store data to analyze seasonality, audience segments, brand awareness, and eCommerce conversions. | Digital Analytics, Excel, ETL, Storytelling |
 | [Superstore Power BI Dashboard](https://github.com/huiherman/superstore-powerbi-dashboard) | Developed an interactive dashboard to visualize sales trends by region and segment. | Power BI |
 
+| [Data Visualizations in Public Companies – Costco Case Study](https://github.com/huiherman/Costco-Data-Visualization) | Analyzed and redesigned corporate data visualizations from Costco’s reports to improve clarity, audience targeting, and decision-making. | Data storytelling, visualization critique, design thinking, stakeholder analysis, business communication, KPI interpretation |
+| [Superstore Power BI Dashboard](https://github.com/huiherman/superstore-powerbi-dashboard) | Developed an interactive dashboard to visualize sales trends by region and segment. | Power BI |
+| [Superstore Power BI Dashboard](https://github.com/huiherman/superstore-powerbi-dashboard) | Developed an interactive dashboard to visualize sales trends by region and segment. | Power BI |
+| [Superstore Power BI Dashboard](https://github.com/huiherman/superstore-powerbi-dashboard) | Developed an interactive dashboard to visualize sales trends by region and segment. | Power BI |
+
 ### **3. SAS Data Analytics in the Retail and Financial Services sector**
 
 | Project | Description | Skills |
