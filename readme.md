@@ -28,7 +28,6 @@ Hi, I'm Herman — with over 18 years of experience in banking, analytics, and d
 | [Data Visualizations in Public Companies – Costco Case Study](https://github.com/huiherman/Costco-Data-Visualization) | Analyzed and redesigned corporate data visualizations from Costco’s reports to improve clarity, audience targeting, and decision-making. | Data storytelling, visualization critique, design thinking, stakeholder analysis, business communication, KPI interpretation |
 | [Data Visualizations and Car Thefts – Ottawa Case Study](https://github.com/huiherman/ottawa-vehicle-theft-analysis) | Transformed raw charts of Ottawa car theft data into audience-friendly visual stories using best practices in data visualization. | Data visualization, design thinking, storytelling, Gestalt principles, chart refinement, audience targeting |
 | [Paris 2024 Olympics: Performance, Participation & Progress](https://github.com/huiherman/paris-2024-olympic-analytics) | A comprehensive data storytelling project that uses Power BI and Visme to explore medal trends, athlete demographics, and global participation patterns at the Paris 2024 Olympic Games. | Data storytelling, dashboard design, visual hierarchy, Power BI, Visme, infographic design, data interpretation |
-| [Superstore Power BI Dashboard](https://github.com/huiherman/superstore-powerbi-dashboard) | Developed an interactive dashboard to visualize sales trends by region and segment. | Power BI |
 
 ### **3. SAS Data Analytics in the Retail and Financial Services sector**
 
@@ -39,8 +38,16 @@ Hi, I'm Herman — with over 18 years of experience in banking, analytics, and d
 | [Banking Complaints Text Mining](https://github.com/huiherman/sas-text-analytics-project) | NLP and Network Analysis on the U.S. bank customer complaints and uncover insights on service quality. | SAS VTA and PROC SQL |
 | [SAS Network Analytics – Fraud Detection](https://github.com/huiherman/sas-network-analysis-fraud-communication) | Analyzed a communication network and identified key nodes, communities, and potential articulation points that indicate fraud schemes or critical connectors. | SAS Network Analytics and PROC SQL |
 
+### **4. SAS Business Analytics Methods**
 
-### **4. Automation & Scripting**
+| Project | Description | Skills |
+|---------|-------------|--------|
+| [Forecasting Assignment - SAS Visual Forecasting](https://github.com/huiherman/forecasting-assignment) | Forecasting sales revenue using SAS Viya with multiple models and confidence interval visualization. | Time series analysis, forecast modeling using ARIMA, naïve, and hierarchical methods, data visualization with confidence intervals, scenario simulation, and SAS Viya platform usage. |
+| [Logistic Regression Analysis Using SAS Visual Statistics](https://github.com/huiherman/logistic-regression-sas-heart) | This project applies logistic regression using SAS Visual Statistics on health data to identify significant predictors of health status. | SAS Visual Statistics, logistic regression modeling, exploratory data analysis, variable selection, missing data treatment, model evaluation, data storytelling |
+| [Decision Tree Classification Using SAS Model Studio](https://github.com/huiherman/decision-tree-health-data-sas) | A SAS decision tree classification project analyzing health data to compare model accuracy and tree complexity using different pruning strategies. | SAS Model Studio, decision tree modeling, misclassification analysis, KS statistic evaluation, health data preprocessing |
+| [Neural Network Analysis on Health Dataset](https://github.com/huiherman/neural-network-health-analysis) | A comparative analysis of neural network models using obfuscated health data in SAS Model Studio to evaluate accuracy and variable importance for predicting health status. | Neural network modeling, decision tree comparison, SAS Model Studio, data preprocessing with z-score standardization, misclassification analysis, and variable importance evaluation. |
+
+### **5. Automation & Scripting**
 
 | Project | Description | Skills |
 |---------|-------------|--------|
